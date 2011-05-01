@@ -1,0 +1,4 @@
+/home/alex/Programming/os/kernel/proc.c:1:10: fatal error: 'type.h' file not found
+#include "type.h"
+         ^
+1 error generated.
